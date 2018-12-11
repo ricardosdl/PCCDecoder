@@ -6,3 +6,6 @@ https://stackoverflow.com/questions/3543569/default-argument-values-in-subroutin
 
 ==creating perl modules
 https://perlmaven.com/how-to-create-a-perl-module-for-code-reuse
+
+==url where the idea came from
+https://g1.globo.com/sp/sao-paulo/noticia/2018/12/10/cartas-de-faccao-revelam-plano-para-matar-promotor-e-coordenador-de-presidios-de-sp.ghtml
