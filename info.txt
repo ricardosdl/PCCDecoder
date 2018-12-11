@@ -1,0 +1,8 @@
+==regex test
+https://regex101.com/r/k2c7ES/2
+
+==optional parameters
+https://stackoverflow.com/questions/3543569/default-argument-values-in-subroutines
+
+==creating perl modules
+https://perlmaven.com/how-to-create-a-perl-module-for-code-reuse
