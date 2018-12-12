@@ -8,6 +8,11 @@ my $targetfilename = shift or die "Usage: $0 FILENAME";
 
 my $targetcontent = path($targetfilename)->slurp_utf8;
 
-my $targetcontent_only_letters = DecoderUtil::list_unique_chars($targetcontent, qr/[^\d\w]/p);
+my @targetcontent_only_letters = DecoderUtil::list_unique_chars($targetcontent);
+my $num_letters = @targetcontent_only_letters;
 
-say $targetcontent_only_letters;
+foreach(@targetcontent_only_letters) {
+    say $_;
+}
+
+say "There are ", $num_letters;
