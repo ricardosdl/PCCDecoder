@@ -9,3 +9,7 @@ https://perlmaven.com/how-to-create-a-perl-module-for-code-reuse
 
 ==url where the idea came from
 https://g1.globo.com/sp/sao-paulo/noticia/2018/12/10/cartas-de-faccao-revelam-plano-para-matar-promotor-e-coordenador-de-presidios-de-sp.ghtml
+
+==decryption method
+https://en.wikipedia.org/wiki/Kasiski_examination
+
