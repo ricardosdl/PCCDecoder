@@ -18,4 +18,16 @@ sub list_unique_chars {
     
 }
 
+sub letters_frequency {
+    my ($text) = @_;
+    my %count;
+    
+    foreach my $l (split //, $text) {
+        $count{$l}++;
+    }
+    
+    return %count;
+    
+}
+
 1;
