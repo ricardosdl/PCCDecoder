@@ -13,3 +13,6 @@ https://g1.globo.com/sp/sao-paulo/noticia/2018/12/10/cartas-de-faccao-revelam-pl
 ==decryption method
 https://en.wikipedia.org/wiki/Kasiski_examination
 
+==frequencies of letters in portuguese
+https://pt.wikipedia.org/wiki/Frequ%C3%AAncia_de_letras#Frequ%C3%AAncias_relativas_das_primeiras_letras_de_uma_palavra_no_idioma_Ingl%C3%AAs_e_Portugu%C3%AAs
+http://www.bckelk.ukfsn.org/words/etaoin.html
